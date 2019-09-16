@@ -55,18 +55,22 @@ a {
 
 #div1 h3 {
     border-top: solid #CC1C0D 10px;
+    margin-top: 5px;
 }
 
 #div2 h3 {
     border-top: solid #37A4A4 10px;
+    margin-top: 5px;
 }
 
 #div3 h3 {
     border-top: solid #685288 10px;
+    margin-top: 5px;
 }
 
 #div4 h3 {
     border-top: solid #000000 10px;
+    margin-top: 19px;
 }
 
 .bio > img {
